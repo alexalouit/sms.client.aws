@@ -1,0 +1,8 @@
+{
+    "endpoint": "https://sms.api.alouit.fr/",
+    "token": "",
+    "phonenumber": "+3300000000",
+    "user-agent": "Amazon SNS Gateway",
+    "aws-acces-key": "",
+    "aws-secret-key": ""
+}
